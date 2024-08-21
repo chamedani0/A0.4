@@ -6,6 +6,7 @@ int main()
 {
 	cout << "Hello World!" << endl;
 	cout << "Hello GitHub!" << endl;
+	cout << "New feature!" << endl;
 
 	return 0;
 }
